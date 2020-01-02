@@ -18,27 +18,27 @@ Once the project moves into development, the press release can be used as a touc
  
 ## Heading ##
   > Name the product in a way the reader (i.e. your target customers) will understand.
-
+>MVC (Most Valuable Contacts)
 ## Sub-Heading ##
   > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
-
+An app that keeps your Most Valuable Contacts Safe
 ## Summary ##
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
-
+You can store your contacts, label them and access them whenever, also you can have multiple accounts.
 ## Problem ##
   > Describe the problem your product solves.
-
+You might lose your contacts when you sell your phones or your phone breaks.
 ## Solution ##
   > Describe how your product elegantly solves the problem.
-
+An app that keeps all of your contacts in one plcae
 ## Quote from You ##
   > A quote from a spokesperson in your company.
-
+"Dreams without goals remain freams"
 ## How to Get Started ##
   > Describe how easy it is to get started.
-
+//
 ## Customer Quote ##
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
-
+"One thing i know for sure is that i will never lose my contacts ever again!" -Tamara
 ## Closing and Call to Action ##
   > Wrap it up and give pointers where the reader should go next.
