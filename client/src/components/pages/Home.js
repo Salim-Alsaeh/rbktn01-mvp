@@ -1,10 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import Contacts from "../contacts/Contacts";
 
 const Home = props => {
     return (
-        <div>
-            <h1>Home</h1>
+        <div className="grid-2">
+            <div> { /* a form is here*/}</div>
+            <div>
+                <Contacts/>
+            </div>
         </div>
     );
 };
