@@ -10,5 +10,6 @@
     <orderEntry type="library" name="@types/jsonwebtoken" level="application" />
     <orderEntry type="library" name="@types/bcryptjs" level="application" />
     <orderEntry type="library" name="@types/require-dir" level="application" />
+    <orderEntry type="library" name="784f536065" level="application" />
   </component>
 </module>
