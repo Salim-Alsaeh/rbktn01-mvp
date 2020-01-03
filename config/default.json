@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://usb:123usb@mvc-jjxlv.mongodb.net/test?retryWrites=true&w=majority"
+}
