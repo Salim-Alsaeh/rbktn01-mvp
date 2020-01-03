@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b009987d-af26-47f0-a288-fd1aefbd804a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rbktn01-mvp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rbktn01-mvp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/contacts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +65,11 @@
       <option name="presentableId" value="Default" />
       <updated>1578003876931</updated>
       <workItem from="1578003878760" duration="2331000" />
-      <workItem from="1578042947224" duration="6535000" />
+      <workItem from="1578042947224" duration="6866000" />
+      <workItem from="1578052421991" duration="461000" />
+      <workItem from="1578056896041" duration="2054000" />
+      <workItem from="1578058965878" duration="90000" />
+      <workItem from="1578059068499" duration="4278000" />
     </task>
     <servers />
   </component>
@@ -71,9 +81,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="360" y="72" key="#Usage_Scope/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1578042670661" />
-    <state x="307" y="57" key="SettingsEditor" timestamp="1578042927072">
+    <state x="349" y="149" key="IDE.errors.dialog" timestamp="1578060242138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="307" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1578042927072" />
+    <state x="349" y="149" key="IDE.errors.dialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1578060242138" />
+    <state x="307" y="57" key="SettingsEditor" timestamp="1578059546619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1578059546619" />
   </component>
 </project>
